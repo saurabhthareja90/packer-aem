@@ -17,9 +17,9 @@ aws:
   vpc_id: ''
   subnet_id: ''
   #Amazon Linux AMI 2017.09.1 (HVM
-  source_ami: ami-33996b51
+  #source_ami: ami-33996b51
   #Amazon Linux 2 LTS Candidate AMI 2017.12.0 (HVM)
-# source_ami: ami-71867013
+  source_ami: ami-71867013
   #RHEL-7.4_HVM
 # source_ami: ami-ccecf5af
   #When using RHEL, the root_volume_name must be /dev/sda1
